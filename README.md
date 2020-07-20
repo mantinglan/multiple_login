@@ -30,6 +30,7 @@ use `v-for` to  render each order.
 Add a new object of `accountTypeArr` in App.js to add a new type.
 
 * Demo
+
 ![](https://i.imgur.com/TpR9yhM.png)
 
 
@@ -40,5 +41,6 @@ use `v-for` to  render each order.
 Add a new object of `inputArr` in App.js to add a new input box.
 
 * Demo
+
 ![](https://i.imgur.com/jDwwKB7.png)
 
